@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there,
+I'm Young-min Shin, a junior developer.
+
+### 🧗 Interests
+Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Development.
 
 <!--
 **pfshin22/pfshin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
