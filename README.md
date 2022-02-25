@@ -3,7 +3,6 @@
   I'm Youngmin Shin, a junior developer.
 
   
-<h3 align="center"> Interests </h3>
 <h3 align="center"> 🧗 Interests </h3>
 <p align="center">
 Bioinformatics, Data Science, Machine Learning, Data Engineering, Web Development.
